@@ -6,7 +6,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* <App /> */}
     <div>
-      ⚛️
+      <div>
+        ⚛️
+      </div>
       <h1>
         Fun Facts About React
       </h1>
@@ -17,7 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <li><b>React and SEO Go Together.</b></li>
         <li><b>You Can Create a Fully-Fledged Project With a Single Command.</b></li>
         <li><b>React Projects Can be Started With a Specific Template.</b></li>
-        
+
       </ul>
     </div>
   </React.StrictMode>
